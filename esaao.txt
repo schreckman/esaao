@@ -1,0 +1,30 @@
+esaao stands for (E) (S)ound (A)nalyser (A)udio (O)utputer
+
+plan:
+
+GUI program, in which you can give a twitch username as text and the program will connect to the streamers audio and
+scans for words the user has to specify, when the streamer says one of the words the program will reply by starting
+an audio which the user is hearing than.
+
+usecases:
+
+- a streamer using it themselves (playing horror game and being jumped scared whenever the streamer says "I'm scared")
+- lurker/mod; whenever the streamer says your name
+
+
+To-Do list:
+
+Non-GUI:
+- adding translations
+- connecting to twitch streams
+- routing the audio through an analyser
+- detect "words"
+- run audio if words are said
+- changing language on runtime?
+- making msgfmt run automatically
+
+GUI:
+- input field for streamer name
+- adjust audio volume
+- make GUI user-friendly SEXY :)
+- menu area with options (audio volume?), (info about software), (language) etc.
