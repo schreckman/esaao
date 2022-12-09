@@ -1,6 +1,6 @@
-import locale
-import os
 import gettext
+import os
+
 import application_gui
 
 # run in console if new translations are includes:
