@@ -1,6 +1,7 @@
 import locale
 import os
 import gettext
+import application_gui
 
 # run in console if new translations are includes:
 # msgfmt -o locales/de/LC_MESSAGES/messages.mo locales/de/LC_MESSAGES/messages.po
@@ -10,5 +11,5 @@ _ = gettext.translation('messages', localedir='locales', languages=[LOCALE]).get
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print(_("hello_world"))
-    print(_("this_is_a_test"))
+    app = application_gui.App()
+    app.mainloop()
