@@ -17,8 +17,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "hello_world"
-msgstr "Hello World"
+msgid "ESAAO"
+msgstr "ESAAO"
 
-msgid "this_is_a_test"
-msgstr "This is a test"
+msgid "Settings"
+msgstr "Settings"
+
+msgid "About"
+msgstr "About"
+
+msgid "Current streamer name: "
+msgstr "Current streamer name: "
+
+msgid "write a streamers name:"
+msgstr "write a streamers name:"
+
+msgid "Streamer name"
+msgstr "Streamer Name"
+
+msgid "Choose a streamer"
+msgstr "Choose a streamer"
+
+msgid "Appearance Mode:"
+msgstr "Appearance Mode:"

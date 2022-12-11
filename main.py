@@ -1,7 +1,7 @@
 import gettext
 import os
 
-import application_gui
+from src import application_gui
 
 # run in console if new translations are includes:
 # msgfmt -o locales/de/LC_MESSAGES/messages.mo locales/de/LC_MESSAGES/messages.po
