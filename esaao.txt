@@ -1,4 +1,6 @@
 esaao stands for (E) (S)ound (A)nalyser (A)udio (O)utputer
+or:
+twitch Audio Analyser Sound Output
 
 plan:
 
